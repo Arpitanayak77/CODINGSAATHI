@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(16, 6, 44);
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+input{
+    width: 260px;
+    padding: 8px;
+    border: 2px solid rgb(243, 15, 15);
+    outline: none;
+}
+#description{
+    border: 2px solid rgb(243, 15, 15);
+    width: 270px;
+}
+button {
+    width: 80px;
+    height: 41px;
+    padding: 14px 40px;
+    background-color: rgb(19, 210, 35);
+    color: #fff;
+    border: 2px solid rgb(11, 10, 10);
+    outline: none;
+    text-align: center;
+    padding: 15px 32px;
+    display: inline-block;
+    
+}
+
+.text ul{
+    position: relative;
+    background-color: rgb(5, 31, 31);
+    color: white;
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+}
+
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
